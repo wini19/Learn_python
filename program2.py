@@ -2,16 +2,16 @@
 
 #Numbers in python : int,float,complex
 
-#int 
+#int
 x=1
 y=-78423423842374345
-z=32423467678888883464664 
+z=32423467678888883464664 #unlimited nos. allowed in int
 print(type(x))
 print(type(y))
 print(type(z))
 print(z-2)
 
-#float 
+#float
 x=3.2
 y=0.0
 z=3e5 # 3*10^5
@@ -31,6 +31,7 @@ z=-8j
 print(type(x))
 print(type(y))
 print(type(z))
+print(x) # complex nos. are printed in parenthesis automatically
 print(z-2)
 
-
+# Toodles! :)
