@@ -1,4 +1,6 @@
-# explains about type castings in python
+#program3
+#30/07/18
+#explains about type castings in python
 
 #type castings
 
@@ -42,3 +44,5 @@ print(x)
 # invalid :
 # x=str("hahaha" + "hohoho" + 10) :-----int can't be concatenated with str
 # print(x)
+
+#Toodles! :)
