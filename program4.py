@@ -1,4 +1,4 @@
-#program4...heya...
+#program4
 #1/08/18
 
 #PYTHON STRINGS
