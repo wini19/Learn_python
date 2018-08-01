@@ -56,3 +56,5 @@ print(x.split("#"))
 print('\n' + "Type your name : ")
 x=input()
 print("hello " + x + " :)")
+
+#Toodles :)
