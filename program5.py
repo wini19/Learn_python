@@ -1,3 +1,6 @@
+#program5
+#02/08/18
+
 #---------------------PYTHON OPERATORS---------------------------
 """Types of operators in python :
    Arithmetic operators (c++ and some extra)
@@ -111,3 +114,4 @@ Operator    Example	          Same As
     >>=	    x >>= 3	          x = x >> 3
     <<=	    x <<= 3	          x = x << 3
 """
+#Toodles! :)
